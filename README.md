@@ -1,5 +1,8 @@
 https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
-http://archive.is/https://github.com/misterch0c/shadowbroker
+
+Want the zip file before the repository was reported? **DOWNLOAD IT HERE**:
+
+http://web.archive.org/web/20170414195619/https://codeload.github.com/misterch0c/shadowbroker/zip/master
 
 The following files were deleted after this repository was reported because it contained "sensitive data":
 
